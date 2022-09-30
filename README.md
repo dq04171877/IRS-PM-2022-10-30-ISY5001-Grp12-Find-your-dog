@@ -1,1 +1,1 @@
-# IS-Group12-IntelligentReasoningSystemProject
+# IS-Group12-Intelligent-Reasoning-System-Project

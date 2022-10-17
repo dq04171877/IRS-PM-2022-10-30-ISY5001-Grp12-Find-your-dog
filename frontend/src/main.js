@@ -7,12 +7,5 @@ import "./assets/main.css";
 const app = createApp(App);
 
 app.use(createPinia());
-app.component('login-form', {
-    template: `
-      <div>
-        <input type ="email"/>
-        <input type ="password"/>
-      </div>
-    `
-})
+
 app.mount("#app");

@@ -1,6 +1,7 @@
 <script setup>
 import HelloWorld from "./components/HelloWorld.vue";
 import LoginForm from "./components/LoginForm.vue";
+import axios from 'axios';
 </script>
 
 <template>
@@ -20,8 +21,8 @@ import LoginForm from "./components/LoginForm.vue";
 
   <main>
     <LoginForm/>
-    <button @click="toggleBox" class="submit">{{isVisible}}</button>
-    <div v-if="isVisible" class = "box"></div>
+    <button @click="getResponseData" class="submit">submit</button>
+    <div v-if="isVisible" class = "box">{{responseData}}</div>
   </main>
 
 </template>
@@ -31,12 +32,21 @@ export default {
   data() {
     return {
       isVisible: true,
-      username: "okk"
+      username: "okk",
+      responseData: ''
     }
   },
   methods: {
     toggleBox(){
       this.isVisible = !this.isVisible
+    },
+    getResponseData(){
+      axios.get('http://127.0.0.1:5000/api/recommend/query/First Post').then((response)=>{
+        console.log(response.data);
+        this.responseData=response.data;
+      }).catch((response)=>{
+        console.log(response);
+      })
     }
   }
 }
@@ -53,7 +63,7 @@ header {
 }
 
 .box {
-  background-color: blueviolet;
+  background-color: rgb(171, 141, 198);
   height: 200px;
   width: 200px;
 }
@@ -75,9 +85,6 @@ header {
     flex-wrap: wrap;
   }
 
-  input{
-    margin: 10px;
-    display: block;
-  }
+
 }
 </style>

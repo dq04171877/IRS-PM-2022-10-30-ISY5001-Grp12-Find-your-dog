@@ -16,10 +16,12 @@ Du Qiao|A0261990X|Backend Development, Database (Flask and SQLite3) |
 Hu Hang|A0261634H|Recommender Development(NLP)|
 Jonathan Lim Ching Loong|A0261707E|Knowledge base Development(Cluster),Video Editing|
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-// TODO: put a demo here
-<video width="320" height="240" controls>
-  <source src="./video/Promo_Video_Main.mp4" type="video/mp4">
-</video>
+
+
+https://user-images.githubusercontent.com/17245106/198862025-61ca2e03-5e5d-44c4-b1dc-e5343171056e.mp4
+
+
+
 ## SECTION 5 : USER GUIDE
 // TODO: put a user guide here
 ## SECTION 6 : PROJECT REPORT / PAPER

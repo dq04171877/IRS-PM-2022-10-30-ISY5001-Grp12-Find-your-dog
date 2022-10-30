@@ -48,6 +48,11 @@ This project is implemented using client-server architecture. To run this projec
 * Running Examples
 * Discussion and Future Improvements
 * Appendix
+  * Project Proposal
+  * Mapped System Functionalities against knowledge, techniques and skills of modular courses: MR, RS, CGS
+  * Installation and User Guide
+  * Individual Reports
+  * References
 ------
 ## SECTION 7 : MISCELLANEOUS
 Refer to Github Folder: Miscellaneous

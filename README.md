@@ -21,7 +21,7 @@ Jonathan Lim Ching Loong|A0261707E|Knowledge base Development(Cluster), Video Ed
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
 
-https://user-images.githubusercontent.com/17245106/198862025-61ca2e03-5e5d-44c4-b1dc-e5343171056e.mp4
+[Promotion Video](./video/Promotion_Video.mp4)
 
 
 ------

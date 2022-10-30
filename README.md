@@ -24,9 +24,9 @@ Jonathan Lim Ching Loong|A0261707E|Knowledge base Development(Cluster), Video Ed
 ----
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
+[Promotion Video](./Video/IRS-PM-2022-10-30-ISY5001-Grp12-Find-your-dog_promotion.mp4)
 
-[Promotion Video](./video/Promotion_Video.mp4)
-
+[System Design Video](./Video/IRS-PM-2022-10-30-ISY5001-Grp12-Find-your-dog_System.mp4)
 
 ------
 ## SECTION 5 : USER GUIDE

@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn
+spacy
+flask-cors
+openpyxl

@@ -3,7 +3,8 @@
 ## SECTION 1 : PROJECT TITLE
 ### Find your dog Recommendation System
 
-// TODO: put a picture here
+![WhatsApp Image 2022-10-30 at 1 16 46 AM](https://user-images.githubusercontent.com/17245106/198861450-615b7694-a339-432a-a8b6-b7b5d4102d72.jpeg)
+
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 As such, this project objective is to be a platform to facilitate the search process for dog adoption in Singapore. The project targets step 1 in the process and aims to reduce the time taken for an aspiring adopter to search for their desired dog by applying intelligent reasoning systems. It also hopes to take into consideration the key approval criteria of each organization to better increase the chances of an aspiring adopter to successfully adopt a dog. 

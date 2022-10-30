@@ -7,7 +7,11 @@
 
 ----
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
-As such, this project objective is to be a platform to facilitate the search process for dog adoption in Singapore. The project targets step 1 in the process and aims to reduce the time taken for an aspiring adopter to search for their desired dog by applying intelligent reasoning systems. It also hopes to take into consideration the key approval criteria of each organization to better increase the chances of an aspiring adopter to successfully adopt a dog. 
+Dogs are the most popular pet type among pet owners in Singapore. Currently there are two ways of owning a dog: through Commercial Purchase and through Adoption. While Commercial Purchase is relatively straightforward, the process of adopting a dog is rather tedious.  
+
+Find Your Dog is an intelligent reasoning system that aims to reduce the time taken for an aspiring adopter to search for their desired dog. The system uses a recommender system that receives detailed information about a user from a user interface and recommends the dogs that best match the user’s preference according to a knowledge base that’s built from data obtained from actual shelter organizations.  
+
+The system focuses on using Content Based Recommender, which is mainly based on the similarity of the features of the items and recommend items that are similar to what the user has selected. From there, if the user is satisfied with the recommendation, then the user is led to the organisation’s platform to proceed to the next step of the organisation. 
 
 ----
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
@@ -30,7 +34,9 @@ This project is implemented using client-server architecture. To run this projec
 
 [User Guide](./ProjectReport/User%20Guide.pdf)
 
+------
 ## SECTION 6 : PROJECT REPORT / PAPER
 // TODO: put a report outline here
+------
 ## SECTION 7 : MISCELLANEOUS
 Refer to Github Folder: Miscellaneous

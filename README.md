@@ -1,4 +1,4 @@
-# IS-Group12-Find your dog
+# IRS-PM-2022-10-30-ISY5001-Grp12-Find your dog
 
 ## SECTION 1 : PROJECT TITLE
 ### Find your dog - the one stop app to adopt a dog

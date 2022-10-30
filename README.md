@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/17245106/198862025-61ca2e03-5e5d-44c4-
 ## SECTION 5 : USER GUIDE
 This project is implemented using client-server architecture. To run this project, both frontend and backend services need to be started.
 
-[User Guide](./SystemCode/User%20Guide.pdf)
+[User Guide](./ProjectReport/User%20Guide.pdf)
 
 ## SECTION 6 : PROJECT REPORT / PAPER
 // TODO: put a report outline here

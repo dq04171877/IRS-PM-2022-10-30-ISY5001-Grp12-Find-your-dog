@@ -3,7 +3,7 @@
 ## SECTION 1 : PROJECT TITLE
 ### Find your dog - the one stop app to adopt a dog
 
-![WhatsApp Image 2022-10-30 at 1 16 46 AM](https://user-images.githubusercontent.com/17245106/198861450-615b7694-a339-432a-a8b6-b7b5d4102d72.jpeg)
+![Find_my_dog_promotion](https://user-images.githubusercontent.com/17245106/198861450-615b7694-a339-432a-a8b6-b7b5d4102d72.jpeg)
 
 ----
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
@@ -24,9 +24,9 @@ Jonathan Lim Ching Loong|A0261707E|Knowledge base Development(Cluster), Video Ed
 ----
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
+[Promotion Video](./Video/IRS-PM-2022-10-30-ISY5001-Grp12-Find-your-dog_promotion.mp4)
 
-[Promotion Video](./video/Promotion_Video.mp4)
-
+[System Design Video](./Video/IRS-PM-2022-10-30-ISY5001-Grp12-Find-your-dog_System.mp4)
 
 ------
 ## SECTION 5 : USER GUIDE
@@ -55,4 +55,6 @@ This project is implemented using client-server architecture. To run this projec
   * References
 ------
 ## SECTION 7 : MISCELLANEOUS
-Refer to Github Folder: Miscellaneous
+Refer to Github Folder: Miscellaneous:
+
+Codes used to extract/process raw data

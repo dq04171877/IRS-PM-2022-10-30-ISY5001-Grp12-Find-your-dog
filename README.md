@@ -33,3 +33,4 @@ This project is implemented using client-server architecture. To run this projec
 ## SECTION 6 : PROJECT REPORT / PAPER
 // TODO: put a report outline here
 ## SECTION 7 : MISCELLANEOUS
+Refer to Github Folder: Miscellaneous

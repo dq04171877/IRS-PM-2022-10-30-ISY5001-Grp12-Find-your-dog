@@ -3,7 +3,7 @@
 ## SECTION 1 : PROJECT TITLE
 ### Find your dog - the one stop app to adopt a dog
 
-![WhatsApp Image 2022-10-30 at 1 16 46 AM](https://user-images.githubusercontent.com/17245106/198861450-615b7694-a339-432a-a8b6-b7b5d4102d72.jpeg)
+![Find_my_dog_promotion](https://user-images.githubusercontent.com/17245106/198861450-615b7694-a339-432a-a8b6-b7b5d4102d72.jpeg)
 
 ----
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkuserinterface"]=self["webpackChunkuserinterface"]||[]).push([[443],{55468:function(e,n,r){r.r(n),r.d(n,{default:function(){return i}});var t=r(66252);const u={class:"about"};function c(e,n){return(0,t.wg)(),(0,t.iD)("div",u)}var s=r(83744);const a={},f=(0,s.Z)(a,[["render",c]]);var i=f}}]);
+//# sourceMappingURL=about.ba87878a.js.map

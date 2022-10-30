@@ -14,7 +14,7 @@ As such, this project objective is to be a platform to facilitate the search pro
 |Official Full Name|Student ID (MTech Applicable)|Work Items (Who Did What)|Email (Optional)
 |  ----  | ----  |----  |----  |
 Fu Jia|A0261661H|UI Design, Frontend Development(Vue)|
-Du Qiao|A0261990X|Backend Development, Database (Flask and SQLite3) |
+Du Qiao|A0261990X|Backend Development(Flask), Database(SQLite3)|e0983384@u.nus.edu
 Hu Hang|A0261634H|Recommender Development(NLP)|
 Jonathan Lim Ching Loong|A0261707E|Knowledge base Development(Cluster), Video Editing|
 ----

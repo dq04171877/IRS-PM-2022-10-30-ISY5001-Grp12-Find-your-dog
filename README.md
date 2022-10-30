@@ -36,7 +36,18 @@ This project is implemented using client-server architecture. To run this projec
 
 ------
 ## SECTION 6 : PROJECT REPORT / PAPER
-// TODO: put a report outline here
+* Executive Summary
+* Background and Objective
+* High Level Diagram of Recommender System
+* Knowledge base
+* Recommender
+* Backend Server
+* Database
+* Frontend Interface
+* Frontend User Experience
+* Running Examples
+* Discussion and Future Improvements
+* Appendix
 ------
 ## SECTION 7 : MISCELLANEOUS
 Refer to Github Folder: Miscellaneous

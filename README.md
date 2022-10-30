@@ -16,7 +16,7 @@ As such, this project objective is to be a platform to facilitate the search pro
 Fu Jia|A0261661H|UI Design, Frontend Development(Vue)|e0983055@u.nus.edu
 Du Qiao|A0261990X|Backend Development(Flask), Database(SQLite3)|e0983384@u.nus.edu
 Hu Hang|A0261634H|Recommender Development(NLP, TF-IDF)|
-Jonathan Lim Ching Loong|A0261707E|Knowledge base Development(Cluster), Video Editing|
+Jonathan Lim Ching Loong|A0261707E|Knowledge base Development(Cluster), Video Editing|e0983101@u.nus.edu
 ----
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 

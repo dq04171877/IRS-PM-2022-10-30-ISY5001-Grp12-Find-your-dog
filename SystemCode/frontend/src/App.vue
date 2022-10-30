@@ -41,7 +41,12 @@ export default {
       this.isVisible = !this.isVisible
     },
     getResponseData(){
-      axios.get('http://127.0.0.1:5000/api/recommend/query/First Post').then((response)=>{
+      const headers = {
+         'Content-Type': 'text/plain',
+      }
+      axios.post('http://1f10-35-222-97-85.ngrok.io/api/recommend/signin',{'adopter_name':'Tom2', 'password':'123456'}, {
+    headers: headers
+  }).then((response)=>{
         console.log(response.data);
         this.responseData=response.data;
       }).catch((response)=>{

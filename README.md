@@ -17,10 +17,10 @@ The system focuses on using Content Based Recommender, which is mainly based on 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 |Official Full Name|Student ID (MTech Applicable)|Work Items (Who Did What)|Email (Optional)
 |  ----  | ----  |----  |----  |
-Fu Jia|A0261661H|UI Design, Frontend Development(Vue)|e0983055@u.nus.edu
-Du Qiao|A0261990X|Backend Development(Flask), Database(SQLite3)|e0983384@u.nus.edu
-Hu Hang|A0261634H|Recommender Development(NLP, TF-IDF)|e0983028@u.nus.edu
-Jonathan Lim Ching Loong|A0261707E|Knowledge base Development(Cluster), Video Editing|e0983101@u.nus.edu
+Fu|A026*****|UI Design, Frontend Development(Vue)|e0983055@u.nus.edu
+Du|A026*****|Backend Development(Flask), Database(SQLite3)|e0983384@u.nus.edu
+Hu|A026*****|Recommender Development(NLP, TF-IDF)|e0983028@u.nus.edu
+Jonathan|A026*****|Knowledge base Development(Cluster), Video Editing|e0983101@u.nus.edu
 ----
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
